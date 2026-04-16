@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to WOSCC Under 11s Cricket</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; background-color: #f5f5f5;">
+  
+  <!-- Wrapper Table -->
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #f5f5f5; padding-top: 20px; padding-bottom: 20px;">
+    <tr>
+      <td align="center">
+        
+        <!-- Main Container -->
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="max-width: 600px; background-color: #FFFFFF;">
+          
+          <!-- Header -->
+          <tr>
+            <td style="background-color: #2D7A3A; padding-top: 30px; padding-bottom: 30px; padding-left: 20px; padding-right: 20px; text-align: center;">
+              <img src="https://raw.githubusercontent.com/FranjiOwl/woscc-assets/76ed4f7e433feba9c60947f6138d93003947cdd4/WOSCC%20GIANT%20LOGO.png" alt="WOSCC Logo" width="200" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 16px; max-width: 200px; height: auto;">
+              <h1 style="color: #FFFFFF; margin: 0; font-size: 26px; font-weight: bold;">Welcome to Under 11s Cricket!</h1>
+            </td>
+          </tr>
+          
+          <!-- Golden Yellow Divider -->
+          <tr>
+            <td style="background-color: #E8A800; height: 4px; line-height: 4px; font-size: 1px;">&nbsp;</td>
+          </tr>
+          
+          <!-- Main Content -->
+          <tr>
+            <td style="padding-top: 30px; padding-bottom: 30px; padding-left: 24px; padding-right: 24px;">
+              
+              <!-- Greeting -->
+              <p style="margin-top: 0; margin-bottom: 16px; color: #1A1A1A; font-size: 16px; line-height: 1.6;">Hi <strong>{{parentName}}</strong>,</p>
+              
+              <p style="margin-top: 0; margin-bottom: 16px; color: #1A1A1A; font-size: 16px; line-height: 1.6;">Welcome to <strong>Westbury-on-Severn Cricket Club!</strong> We're absolutely thrilled that <strong>{{childName}}</strong> is joining our <strong>Under 11s</strong> program for the 2026 season.</p>
+              
+              <p style="margin-top: 0; margin-bottom: 24px; color: #1A1A1A; font-size: 16px; line-height: 1.6;">Under 11s is where cricket really starts to take shape! {{childName}} will develop their skills further, learn tactical cricket, and experience their first taste of competitive matches. It's an exciting time where technique meets teamwork!</p>
+              
+              <!-- Player Details Callout Box -->
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top: 24px; margin-bottom: 24px;">
+                <tr>
+                  <td style="background-color: #F2DFA0; border-left-width: 4px; border-left-style: solid; border-left-color: #2D7A3A; padding-top: 16px; padding-bottom: 16px; padding-left: 16px; padding-right: 16px; border-radius: 4px;">
+                    <h3 style="margin-top: 0; margin-bottom: 12px; color: #2D7A3A; font-size: 18px; font-weight: bold;">📋 Your child's details</h3>
+                    <p style="margin-top: 0; margin-bottom: 8px; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong style="color: #2D7A3A;">Player:</strong> {{childName}}</p>
+                    <p style="margin-top: 0; margin-bottom: 0; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong style="color: #2D7A3A;">Age group:</strong> Under 11s</p>
+                  </td>
+                </tr>
+              </table>
+              
+              <!-- What to Expect -->
+              <h2 style="margin-top: 30px; margin-bottom: 12px; color: #2D7A3A; font-size: 22px; font-weight: bold;">🏏 What to expect</h2>
+              
+              <p style="margin-top: 0; margin-bottom: 12px; color: #1A1A1A; font-size: 15px; line-height: 1.6;">Under 11s cricket focuses on developing skills and introducing competitive play. {{childName}} will:</p>
+              
+              <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px; color: #1A1A1A; font-size: 15px; line-height: 1.6;">
+                <li style="margin-bottom: 6px;">Develop advanced batting, bowling, and fielding techniques</li>
+                <li style="margin-bottom: 6px;">Learn tactical cricket and match strategies</li>
+                <li style="margin-bottom: 6px;">Experience competitive matches and league fixtures</li>
+                <li style="margin-bottom: 6px;">Build teamwork, sportsmanship, and confidence</li>
+                <li style="margin-bottom: 0;">Have fun while improving their game</li>
+              </ul>
+              
+              <!-- Training Details -->
+              <h2 style="margin-top: 30px; margin-bottom: 12px; color: #2D7A3A; font-size: 22px; font-weight: bold;">📅 Training details</h2>
+              
+              <p style="margin-top: 0; margin-bottom: 8px; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong>Day:</strong> Friday</p>
+              <p style="margin-top: 0; margin-bottom: 8px; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong>Time:</strong> 6:00pm – 7:30pm</p>
+              <p style="margin-top: 0; margin-bottom: 8px; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong>Venue:</strong> Westbury on Severn Playing Fields, Six Bells, Westbury-on-Severn</p>
+              <p style="margin-top: 0; margin-bottom: 16px; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong>First session:</strong> Friday, 17th April 2026</p>
+              
+              <!-- What to Bring -->
+              <h3 style="margin-top: 20px; margin-bottom: 10px; color: #2D7A3A; font-size: 18px; font-weight: bold;">What to bring</h3>
+              <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px; color: #1A1A1A; font-size: 15px; line-height: 1.6;">
+                <li style="margin-bottom: 6px;">Comfortable sports clothing (t-shirt and shorts or tracksuit)</li>
+                <li style="margin-bottom: 6px;">Trainers or sports shoes</li>
+                <li style="margin-bottom: 6px;">Water bottle (essential!)</li>
+                <li style="margin-bottom: 0;">Sunscreen and cap for sunny days</li>
+              </ul>
+              
+              <p style="margin-top: 0; margin-bottom: 24px; color: #6B7280; font-size: 15px; line-height: 1.6; font-style: italic;">We provide all cricket equipment including bats, balls, helmets, pads, and gloves for training and matches!</p>
+              
+            </td>
+          </tr>
+          
+          <!-- Golden Yellow Divider -->
+          <tr>
+            <td style="background-color: #E8A800; height: 3px; line-height: 3px; font-size: 1px;">&nbsp;</td>
+          </tr>
+          
+          <!-- Payment Section -->
+          <tr>
+            <td style="padding-top: 30px; padding-bottom: 30px; padding-left: 24px; padding-right: 24px;">
+              
+              <h2 style="margin-top: 0; margin-bottom: 16px; color: #2D7A3A; font-size: 22px; font-weight: bold;">💰 Membership & payment</h2>
+              
+              <!-- Fee Highlight Box -->
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 20px;">
+                <tr>
+                  <td style="background-color: #F2DFA0; padding-top: 16px; padding-bottom: 16px; padding-left: 20px; padding-right: 20px; text-align: center; border-radius: 4px; border-width: 2px; border-style: solid; border-color: #E8A800;">
+                    <p style="margin: 0; color: #1A1A1A; font-size: 18px; font-weight: bold;">Junior membership fee: <span style="color: #2D7A3A; font-size: 22px;">£40</span></p>
+                    <p style="margin-top: 8px; margin-bottom: 0; color: #6B7280; font-size: 14px;">Additional siblings: £25</p>
+                  </td>
+                </tr>
+              </table>
+              
+              <!-- Payment Details -->
+              <h3 style="margin-top: 20px; margin-bottom: 10px; color: #2D7A3A; font-size: 18px; font-weight: bold;">Payment details</h3>
+              
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #F2DFA0; border-radius: 4px; margin-bottom: 16px;">
+                <tr>
+                  <td style="padding-top: 16px; padding-bottom: 16px; padding-left: 16px; padding-right: 16px;">
+                    <p style="margin-top: 0; margin-bottom: 6px; color: #1A1A1A; font-size: 14px; line-height: 1.8;"><strong>Account name:</strong> Westbury on Severn Junior Cricket</p>
+                    <p style="margin-top: 0; margin-bottom: 6px; color: #1A1A1A; font-size: 14px; line-height: 1.8;"><strong>Sort code:</strong> 30-98-97</p>
+                    <p style="margin-top: 0; margin-bottom: 6px; color: #1A1A1A; font-size: 14px; line-height: 1.8;"><strong>Account number:</strong> 48439468</p>
+                    <p style="margin-top: 0; margin-bottom: 0; color: #1A1A1A; font-size: 14px; line-height: 1.8;"><strong>Payment reference:</strong> <span style="color: #B52020; font-weight: bold;">2026-{{childName}}</span></p>
+                  </td>
+                </tr>
+              </table>
+              
+              <p style="margin-top: 0; margin-bottom: 24px; color: #6B7280; font-size: 14px; line-height: 1.6; font-style: italic;">Please pay before the first session if possible. Payment confirms {{childName}}'s place in the squad.</p>
+              
+            </td>
+          </tr>
+          
+          <!-- Golden Yellow Divider -->
+          <tr>
+            <td style="background-color: #E8A800; height: 3px; line-height: 3px; font-size: 1px;">&nbsp;</td>
+          </tr>
+          
+          <!-- WhatsApp Section -->
+          <tr>
+            <td style="padding-top: 30px; padding-bottom: 30px; padding-left: 24px; padding-right: 24px;">
+              
+              <h2 style="margin-top: 0; margin-bottom: 12px; color: #2D7A3A; font-size: 22px; font-weight: bold;">💬 Join our community</h2>
+              
+              <p style="margin-top: 0; margin-bottom: 20px; color: #1A1A1A; font-size: 15px; line-height: 1.6;">Stay connected with other parents, get session updates, photos, and club news!</p>
+              
+              <!-- Under 11s Group Button -->
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 12px;">
+                <tr>
+                  <td align="center">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td style="background-color: #2D7A3A; border-radius: 4px;">
+                          <a href="https://chat.whatsapp.com/Gu19bon14g9KbTslrxthU5?mode=gi_t" style="display: inline-block; padding-top: 12px; padding-bottom: 12px; padding-left: 28px; padding-right: 28px; color: #FFFFFF; text-decoration: none; font-size: 16px; font-weight: bold;">💬 Join Under 11s group</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              
+              <!-- Main Junior Group Button -->
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 24px;">
+                <tr>
+                  <td align="center">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td style="background-color: #2D7A3A; border-radius: 4px;">
+                          <a href="https://chat.whatsapp.com/EvbiyRsYXndJHcW8d5vsIB?mode=gi_t" style="display: inline-block; padding-top: 12px; padding-bottom: 12px; padding-left: 28px; padding-right: 28px; color: #FFFFFF; text-decoration: none; font-size: 16px; font-weight: bold;">💬 Join main junior group</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              
+            </td>
+          </tr>
+          
+          <!-- Golden Yellow Divider -->
+          <tr>
+            <td style="background-color: #E8A800; height: 3px; line-height: 3px; font-size: 1px;">&nbsp;</td>
+          </tr>
+          
+          <!-- Next Steps Section -->
+          <tr>
+            <td style="padding-top: 30px; padding-bottom: 30px; padding-left: 24px; padding-right: 24px;">
+              
+              <h2 style="margin-top: 0; margin-bottom: 16px; color: #2D7A3A; font-size: 22px; font-weight: bold;">✅ What to do now</h2>
+              
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td style="padding-bottom: 12px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                        <td width="30" style="vertical-align: top;">
+                          <div style="width: 22px; height: 22px; background-color: #2D7A3A; color: #FFFFFF; text-align: center; line-height: 22px; border-radius: 50%; font-size: 14px; font-weight: bold;">✓</div>
+                        </td>
+                        <td style="vertical-align: top; color: #1A1A1A; font-size: 15px; line-height: 1.6;">
+                          <strong>Pay membership fee</strong> using the bank details above
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-bottom: 12px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                        <td width="30" style="vertical-align: top;">
+                          <div style="width: 22px; height: 22px; background-color: #2D7A3A; color: #FFFFFF; text-align: center; line-height: 22px; border-radius: 50%; font-size: 14px; font-weight: bold;">✓</div>
+                        </td>
+                        <td style="vertical-align: top; color: #1A1A1A; font-size: 15px; line-height: 1.6;">
+                          <strong>Look out for a Play Cricket registration email</strong> to complete your account setup
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-bottom: 12px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                        <td width="30" style="vertical-align: top;">
+                          <div style="width: 22px; height: 22px; background-color: #2D7A3A; color: #FFFFFF; text-align: center; line-height: 22px; border-radius: 50%; font-size: 14px; font-weight: bold;">✓</div>
+                        </td>
+                        <td style="vertical-align: top; color: #1A1A1A; font-size: 15px; line-height: 1.6;">
+                          <strong>Join our WhatsApp groups</strong> to stay updated
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-bottom: 12px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                        <td width="30" style="vertical-align: top;">
+                          <div style="width: 22px; height: 22px; background-color: #2D7A3A; color: #FFFFFF; text-align: center; line-height: 22px; border-radius: 50%; font-size: 14px; font-weight: bold;">✓</div>
+                        </td>
+                        <td style="vertical-align: top; color: #1A1A1A; font-size: 15px; line-height: 1.6;">
+                          <strong>Mark first session in your calendar:</strong> Friday, 17th April 2026, 6:00pm
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                        <td width="30" style="vertical-align: top;">
+                          <div style="width: 22px; height: 22px; background-color: #2D7A3A; color: #FFFFFF; text-align: center; line-height: 22px; border-radius: 50%; font-size: 14px; font-weight: bold;">✓</div>
+                        </td>
+                        <td style="vertical-align: top; color: #1A1A1A; font-size: 15px; line-height: 1.6;">
+                          <strong>Get excited for cricket!</strong> 🏏
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              
+            </td>
+          </tr>
+          
+          <!-- Golden Yellow Divider -->
+          <tr>
+            <td style="background-color: #E8A800; height: 3px; line-height: 3px; font-size: 1px;">&nbsp;</td>
+          </tr>
+          
+          <!-- Contact Section -->
+          <tr>
+            <td style="padding-top: 30px; padding-bottom: 30px; padding-left: 24px; padding-right: 24px;">
+              
+              <h2 style="margin-top: 0; margin-bottom: 12px; color: #2D7A3A; font-size: 22px; font-weight: bold;">💬 Questions?</h2>
+              
+              <p style="margin-top: 0; margin-bottom: 16px; color: #1A1A1A; font-size: 15px; line-height: 1.6;">We're here to help! If you have any questions about training, matches, or anything else, please don't hesitate to get in touch:</p>
+              
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #F2DFA0; border-radius: 4px; margin-bottom: 24px;">
+                <tr>
+                  <td style="padding-top: 16px; padding-bottom: 16px; padding-left: 16px; padding-right: 16px;">
+                    <p style="margin-top: 0; margin-bottom: 6px; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong>Club chairman:</strong> Ian Dunn</p>
+                    <p style="margin-top: 0; margin-bottom: 0; color: #1A1A1A; font-size: 15px; line-height: 1.6;"><strong>Email:</strong> <a href="mailto:juniorcricket@woscc.org.uk" style="color: #1E5BAD; text-decoration: none;">juniorcricket@woscc.org.uk</a></p>
+                  </td>
+                </tr>
+              </table>
+              
+              <!-- Closing Message -->
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #F2DFA0; border-radius: 4px; border-left-width: 4px; border-left-style: solid; border-left-color: #E8A800; margin-bottom: 20px;">
+                <tr>
+                  <td style="padding-top: 20px; padding-bottom: 20px; padding-left: 20px; padding-right: 20px; text-align: center;">
+                    <p style="margin-top: 0; margin-bottom: 8px; color: #2D7A3A; font-size: 18px; font-weight: bold;">We can't wait to see {{childName}} on the pitch!</p>
+                    <p style="margin: 0; color: #1A1A1A; font-size: 16px;">See you at training!</p>
+                  </td>
+                </tr>
+              </table>
+              
+              <p style="margin: 0; color: #2D7A3A; font-size: 16px; font-weight: bold;">The WOSCC committee 🏏</p>
+              
+            </td>
+          </tr>
+          
+          <!-- Footer -->
+          <tr>
+            <td style="background-color: #2D7A3A; padding-top: 24px; padding-bottom: 24px; padding-left: 20px; padding-right: 20px; text-align: center; border-top-width: 4px; border-top-style: solid; border-top-color: #E8A800;">
+              <p style="margin-top: 0; margin-bottom: 8px; color: #FFFFFF; font-size: 13px; font-weight: bold; line-height: 1.6;">Westbury-on-Severn Cricket Club</p>
+              <p style="margin-top: 0; margin-bottom: 16px; color: #FFFFFF; font-size: 12px; line-height: 1.6;">
+                Westbury on Severn Playing Fields, Six Bells<br>
+                Westbury-on-Severn, Gloucester, Gloucestershire, GL14 1PF<br>
+                <a href="https://westburyonsevern.play-cricket.com" style="color: #E8A800; text-decoration: none;">westburyonsevern.play-cricket.com</a>
+              </p>
+              
+              <p style="margin-top: 0; margin-bottom: 16px; color: #FFFFFF; font-size: 12px; line-height: 1.6;">
+                <a href="https://www.facebook.com/Westburyonseverncc" style="color: #FFFFFF; text-decoration: none;">Facebook</a>
+              </p>
+              
+              <p style="margin-top: 0; margin-bottom: 0; color: #F2DFA0; font-size: 11px; line-height: 1.6;">
+                You're receiving this email because you registered for WOSCC junior cricket.<br>
+                If you have any questions, please contact <a href="mailto:juniorcricket@woscc.org.uk" style="color: #E8A800; text-decoration: none;">juniorcricket@woscc.org.uk</a>
+              </p>
+            </td>
+          </tr>
+          
+        </table>
+        
+      </td>
+    </tr>
+  </table>
+  
+</body>
+</html>
